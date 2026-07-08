@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [1288-remove-covered-intervals](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1288-remove-covered-intervals) |
 ## Math
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,4 +65,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
