@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0049-group-anagrams) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0739-daily-temperatures) |
