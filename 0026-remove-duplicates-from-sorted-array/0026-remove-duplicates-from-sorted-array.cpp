@@ -5,12 +5,10 @@ public:
         if(n==0)return 0 ;
         int i = 0 , j = i+1 ;
         while(j<n){
-            if(nums[i]==nums[j])j++;
-            else{
-                swap(nums[i+1],nums[j]);
-                i++;
-                j++;
-            }
+        if(nums[i]!=nums[j]){
+            nums[++i]=nums[j];
+        }
+        j++;
         }
         return i+1;
     }
