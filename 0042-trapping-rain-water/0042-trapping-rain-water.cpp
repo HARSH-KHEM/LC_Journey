@@ -2,6 +2,7 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n = height.size();
+        if(n==0) return 0;
         vector<int>leftmax(n);
         vector<int>rightmax(n);
         leftmax[0] = height[0];
