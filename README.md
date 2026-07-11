@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0875-koko-eating-bananas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
