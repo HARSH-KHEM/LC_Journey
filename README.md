@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0084-largest-rectangle-in-histogram) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
