@@ -7,20 +7,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Array
 |  |
