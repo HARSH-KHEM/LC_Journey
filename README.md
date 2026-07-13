@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1288-remove-covered-intervals](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1552-magnetic-force-between-two-balls) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0704-binary-search) |
