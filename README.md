@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
