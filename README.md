@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2187-minimum-time-to-complete-trips) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
