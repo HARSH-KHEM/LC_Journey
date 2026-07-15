@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0572-subtree-of-another-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,9 +277,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
