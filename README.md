@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0424-longest-repeating-character-replacement) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0567-permutation-in-string) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3312-sorted-gcd-pair-queries) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
