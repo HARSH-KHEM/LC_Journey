@@ -16,7 +16,10 @@ public:
         if(!root)return ;
         if(path.empty())path += to_string(root->val);
         else path += "->" + to_string(root->val);
-        if(!root->left && !root->right)ans.push_back(path);
+        if(!root->left && !root->right){
+            ans.push_back(path);
+            return; 
+            }
         calc(root->left , path);
         calc(root->right , path);
     }
