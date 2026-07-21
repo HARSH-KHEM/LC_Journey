@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0199-binary-tree-right-side-view) |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
