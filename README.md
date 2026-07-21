@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0875-koko-eating-bananas) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0567-permutation-in-string) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Number Theory
 |  |
