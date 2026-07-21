@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Tree
 |  |
 | ------- |
