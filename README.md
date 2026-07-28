@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0802-find-eventual-safe-states](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0802-find-eventual-safe-states) |
 ## Counting Sort
 |  |
 | ------- |
