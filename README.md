@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -526,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
