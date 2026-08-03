@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Array
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Recursion
 |  |
 | ------- |
