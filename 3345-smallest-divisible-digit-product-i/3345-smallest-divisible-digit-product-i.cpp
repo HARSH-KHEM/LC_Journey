@@ -1,10 +1,9 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        bool found = false ;
         int ans = 0 ;
         int temp = n;
-        while(!found){
+        while(true){
             n = temp;
             int prod = 1;
             while(n > 0) {
