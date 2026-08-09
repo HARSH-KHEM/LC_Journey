@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0342-power-of-four) |
@@ -645,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
