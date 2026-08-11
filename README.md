@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1140-stone-game-ii) |
