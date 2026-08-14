@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // BOTTOM _ UP APPROACH 
     int numDecodings(string s) {
         int n = s.size() ;
         vector<int>dp(n+1,0);
