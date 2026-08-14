@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0540-single-element-in-a-sorted-array) |
@@ -692,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
