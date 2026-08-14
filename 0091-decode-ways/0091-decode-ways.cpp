@@ -1,6 +1,7 @@
 class Solution {
 public:
     int numDecodings(string s) {
+        //SPACE OPTIMIZATION
         int n = s.size() ;
         int next1 = 1 ;
         int next2 = 0 ;
