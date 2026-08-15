@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0342-power-of-four) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Topological Sort
 |  |
 | ------- |
