@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0721-accounts-merge) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
@@ -709,4 +712,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
