@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0704-binary-search) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
+| [0518-coin-change-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0877-stone-game) |
@@ -722,8 +724,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
