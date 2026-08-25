@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 ## Backtracking
 |  |
@@ -725,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 ## Nim Game
 |  |
 | ------- |
@@ -752,4 +758,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0518-coin-change-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
