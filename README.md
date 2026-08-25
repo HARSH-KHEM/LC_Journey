@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
