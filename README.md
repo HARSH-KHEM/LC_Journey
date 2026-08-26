@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0567-permutation-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
