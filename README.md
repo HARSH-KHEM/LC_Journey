@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Segment Tree
 |  |
 | ------- |
