@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
