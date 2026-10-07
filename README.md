@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 | [0662-maximum-width-of-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0684-redundant-connection) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0567-permutation-in-string) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
