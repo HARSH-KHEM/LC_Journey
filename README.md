@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0377-combination-sum-iv) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1872-stone-game-viii) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
