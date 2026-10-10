@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Bucket Sort
 |  |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2187-minimum-time-to-complete-trips) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
