@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0503-next-greater-element-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0721-accounts-merge](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0721-accounts-merge) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0836-rectangle-overlap) |
