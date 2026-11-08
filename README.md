@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1267-count-servers-that-communicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1267-count-servers-that-communicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1584-min-cost-to-connect-all-points) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/HARSH-KHEM/LC_Journey/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3312-sorted-gcd-pair-queries) |
