@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1406-stone-game-iii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1510-stone-game-iv) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HARSH-KHEM/LC_Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -698,10 +701,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/HARSH-KHEM/LC_Journey/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HARSH-KHEM/LC_Journey/tree/master/1352-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
 | ------- |
